@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="twilight_blue">#0a316d</color>
+    <color name="navy">#021430</color>
+    <color name="cool_grey">#9fa6b0</color>
+    <color name="duck_egg_blue">#d6f1f9</color>
+    <color name="sick_green">#acd433</color>
+    <color name="grapefruit">#ff6363</color>
+    <color name="black_63">#a1000000</color>
+    <color name="windows_blue">#3495af</color>
+</resources>
